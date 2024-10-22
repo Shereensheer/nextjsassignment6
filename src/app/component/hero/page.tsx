@@ -4,14 +4,14 @@ import { FaGithub } from "react-icons/fa";
 
 function Hero() {
   return (
-    <div className='bg-black'>
+    <div className="bg-black">
         <section className="text-white body-font">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-black-900">
-        Hello, I'm Shereen Ahmed
+        Hello, I am Shereen Ahmed
         <br />
-        <span className='text-rose-500 font-bold font-serif'>
+        <span className="text-rose-500 font-bold font-serif">
          FULL STACK <br/>DEVELOPER <br/>& UI/UX DESIGNER</span>
       </h1>
       <p className="mb-8 leading-relaxed">
@@ -23,7 +23,7 @@ function Hero() {
      
         <button className="inline-flex text-white bg-rose-500 border-0 py-2 px-6 focus:outline-none hover:bg-rose-700 rounded text-lg font-bold">
           Get In Touch
-         </button><FaGithub  className='text-5xl inline-flex pl-3'/>  <br/>  
+         </button><FaGithub  className="text-5xl inline-flex pl-3"/>  <br/>  
         </a>
       </div>
     </div>
