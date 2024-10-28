@@ -22,7 +22,7 @@ function About() {
         . I am passionate about coding and enjoy building user-friendly web applications.
       </p>
       <div className="flex justify-center">
-        <a href='/CV.pdf'>
+        <a href='/update.pdf'>
         <button className="inline-flex text-white bg-rose-500 border-0 py-2 px-6 focus:outline-none hover:bg-rose-600 rounded text-lg">
           Download CV
         </button>
